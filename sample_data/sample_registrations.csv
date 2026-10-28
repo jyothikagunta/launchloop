@@ -1,0 +1,22 @@
+student_name,email,college,channel,referral_code,variant,registered_at
+Demo Student 001,demo+001@example.invalid,Synthetic Institute North,College clubs and student ambassadors,CAMPUS01,A,2026-10-20T09:10:00+05:30
+Demo Student 002,demo+002@example.invalid,Synthetic Institute East,WhatsApp and student communities,,B,2026-10-20T10:25:00+05:30
+Demo Student 003,demo+003@example.invalid,Synthetic Institute West,Peer referrals,CAMPUS02,A,2026-10-20T13:40:00+05:30
+Demo Student 004,demo+004@example.invalid,Synthetic Institute South,Paid promotional experiment,,A,2026-10-20T16:05:00+05:30
+Demo Student 005,demo+005@example.invalid,Synthetic Institute North,College clubs and student ambassadors,CAMPUS03,B,2026-10-21T08:55:00+05:30
+Demo Student 006,demo+006@example.invalid,Synthetic Institute East,WhatsApp and student communities,,A,2026-10-21T11:15:00+05:30
+Demo Student 007,demo+007@example.invalid,Synthetic Institute West,Peer referrals,CAMPUS01,B,2026-10-21T14:20:00+05:30
+Demo Student 008,demo+008@example.invalid,Synthetic Institute South,College clubs and student ambassadors,CAMPUS04,A,2026-10-22T09:30:00+05:30
+Demo Student 009,demo+009@example.invalid,Synthetic Institute North,WhatsApp and student communities,,B,2026-10-22T12:00:00+05:30
+Demo Student 010,demo+010@example.invalid,Synthetic Institute East,Peer referrals,CAMPUS05,A,2026-10-22T17:10:00+05:30
+Demo Student 011,demo+011@example.invalid,Synthetic Institute West,Paid promotional experiment,,B,2026-10-23T09:05:00+05:30
+Demo Student 012,demo+012@example.invalid,Synthetic Institute South,College clubs and student ambassadors,CAMPUS02,A,2026-10-23T10:45:00+05:30
+Demo Student 013,demo+013@example.invalid,Synthetic Institute North,WhatsApp and student communities,,A,2026-10-23T14:35:00+05:30
+Demo Student 014,demo+014@example.invalid,Synthetic Institute East,Peer referrals,CAMPUS03,B,2026-10-24T08:40:00+05:30
+Demo Student 015,demo+015@example.invalid,Synthetic Institute West,College clubs and student ambassadors,CAMPUS01,A,2026-10-24T11:50:00+05:30
+Demo Student 016,demo+016@example.invalid,Synthetic Institute South,WhatsApp and student communities,,B,2026-10-24T15:25:00+05:30
+Demo Student 017,demo+017@example.invalid,Synthetic Institute North,Paid promotional experiment,,A,2026-10-25T09:15:00+05:30
+Demo Student 018,demo+018@example.invalid,Synthetic Institute East,Peer referrals,CAMPUS04,B,2026-10-25T12:35:00+05:30
+Demo Student 019,demo+019@example.invalid,Synthetic Institute West,College clubs and student ambassadors,CAMPUS05,A,2026-10-25T16:50:00+05:30
+Demo Student 020,demo+020@example.invalid,Synthetic Institute South,WhatsApp and student communities,,A,2026-10-26T08:20:00+05:30
+Demo Student 021,demo+021@example.invalid,Synthetic Institute North,Peer referrals,CAMPUS02,B,2026-10-26T13:05:00+05:30
